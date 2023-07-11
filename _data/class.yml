@@ -1,0 +1,43 @@
+instructor: 
+  name: Jill Naiman
+  email: jnaiman@illinois.edu
+  office: Online
+  office_hours: Mon 3-4pm, Wed 12:45-1:45pm
+tas:
+  -
+    name: Leon Hounnou
+    email: hounnou2@illinois.edu
+    office: Online
+    office_hours: Thurs, Fri 4-5pm
+  -
+    name: Guangchun Zheng
+    email: gzheng6@illinois.edu
+    office: Online
+    office_hours: Tuesdays 1:30-3:30pm
+  -
+    name: Xiujia Yang
+    email: xiujiay2@illinois.edu
+    office: Online
+    office_hours: TBD
+
+course:
+  name: Data Visualization
+  number: IS445
+  semester: Spring 2023
+  section: OAU-OAG
+  location: Online
+  time: Tuesdays, 4-5:55PM
+  credit_hours: 4
+urls:
+  -
+    name: Slack
+    url: is445-spring2023.slack.com
+  - 
+    name: Canvas
+    url: https://canvas.illinois.edu/courses/32263
+  -
+    name: Course Materials
+    url: https://uiuc-ischool-dataviz.github.io/is445_oauoag_spring2023/
+  -
+    name: Github
+    url: https://github.com/UIUC-iSchool-DataViz/is445_oauoag_spring2023
