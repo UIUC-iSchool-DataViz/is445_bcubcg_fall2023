@@ -17,12 +17,6 @@ Additionally, please be aware that there are mental health resources available t
  * https://www.disability.illinois.edu/health/mental-health-resources 
  
 
-## Impact on assignments
-
-Finally, due to the current messiness of the COVID learning environment, we are allowing up to three late homeworks.  If you need to “use” one of your late homeworks use the "Extension Request" tool for each assignment in that week's module and specify which request number you will be using (we will be keeping track of extensions, so please be accurate with your specified extension number).  The extension request needs to be submitted *before the assignment is due* and can not be requested retroactively.  You do not need to provide any explanation for why you’d like to use one of your late homeworks.  You will then have one extra week to submit this assignment.  No extensions can be applied to Weekly Viz reports or any parts of the Final Project.
-
-Late policies for homeworks not on extension include: 10% off for 1 day late, 20% off for 2 days late, 30% off for 3 days late.  All homeworks not on extension will be given a zero if turned in after 3 days past the due date.
-
 # Course Description
 
 Data visualization is crucial to conveying information drawn from models,
@@ -296,6 +290,15 @@ assignment (or in the case of emergencies, as soon as practicable).
 | 63-66.99        | D
 | 60-62.99        | D-
 | 59.99 and below | F
+
+
+#### Assignment Late Policies
+
+We allow students to turn in Homeworks up to a week late without penulty.  If you need to “use” one of your late homeworks use the "Extension Request" tool for each assignment in that week's module and specify that you would like to use an extension.  The extension request needs to be submitted *before the assignment is due* and can not be requested retroactively.  You do not need to provide any explanation for why you’d like to use an extension.  You will then have one extra week to submit this assignment.  No extensions can be applied to Weekly Viz reports or any parts of the Final Project.
+
+Late policies for homeworks not on extension include: 10% off for 1 day late, 20% off for 2 days late, 30% off for 3 days late.  All homeworks not on extension will be given a zero if turned in after 3 days past the due date.
+
+
 
 ### Incompletes
 
