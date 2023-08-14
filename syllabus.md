@@ -202,7 +202,7 @@ This syllabus may be obtained in alternative formats upon request. Please contac
 # Assignments and Evaluation
 
 Students will be graded based on a combination of assignments (70%: 50% (maximum) standard prose/code assignments and
-20% weekly visualization reports) and a final
+20% weekly visualization labs) and a final
 project (30%).  The final project will be a capstone to the course, and will
 have greater flexibility in software packages and data sources.  This project
 will be introduced around Week 8.
@@ -211,15 +211,15 @@ There will be opportunities for extra credit in the homework and final project p
 fixed at 50% (even with extra credit included).
 
 There are several homework assignments which are **required** to pass the course:
- * Any installation assignments (Part of Homework #1, Homework #5, and Homework #7) with a grade of 85% or better on *each* assignment
- * Final-project preparatory assignments: Homework #6, *either* Homework #9 *or* Homework #10 with a grade of 50% or better on *each* assignment
+ * Any installation/package test assignments (Part of Homework #1, Homework #5, and Homework #7) with a grade of 85% or better on *each* assignment portion
+ * Final-project preparatory assignments: Homework #6, *either* Homework #9 *or* Homework #10 with a grade of 50% or better on *each* assignment portion
  
 Failure to submit these assignments above these grading thresholds will automatically lead to a failing grade in the course.
 
 **In summary, your grades consist of:**
 
 | 50% | Standard assignments in prose or code form (50% is the MAX grade, even with extra credit)
-| 20% | Weekly visualization reports
+| 20% | Weekly visualization labs
 | 30% | Final project
 
 
@@ -270,7 +270,7 @@ more so on completeness and thoughtfulness.
 All assignments are required for all students, aside from one homework (lowest HW grade will be dropped). 
 Note that the Syllabus Quiz is in the homework grading category, but will *not* be droppable.
 Completing all assignments is
-not a guarantee of a passing grade.  You must do homework, visualization reports, and final to 
+not a guarantee of a passing grade.  You must do homework, visualization labs, and final to 
 receive a passing grade. Late or incomplete assignments will not be given full credit
 unless the student has contacted the instructor prior to the due date of the
 assignment (or in the case of emergencies, as soon as practicable).
@@ -294,7 +294,7 @@ assignment (or in the case of emergencies, as soon as practicable).
 
 #### Assignment Late Policies
 
-We allow students to turn in Homeworks up to a week late without penulty.  If you need to “use” one of your late homeworks use the "Extension Request" tool for each assignment in that week's module and specify that you would like to use an extension.  The extension request needs to be submitted *before the assignment is due* and can not be requested retroactively.  You do not need to provide any explanation for why you’d like to use an extension.  You will then have one extra week to submit this assignment.  No extensions can be applied to Weekly Viz reports or any parts of the Final Project.
+We allow students to turn in Homeworks up to a week late without penulty.  If you need to “use” one of your late homeworks use the "Extension Request" tool for each assignment in that week's module and specify that you would like to use an extension.  The extension request needs to be submitted *before the assignment is due* and can not be requested retroactively.  You do not need to provide any explanation for why you’d like to use an extension.  You will then have one extra week to submit this assignment.  No extensions can be applied to Weekly Viz labs or any parts of the Final Project.
 
 Late policies for homeworks not on extension include: 10% off for 1 day late, 20% off for 2 days late, 30% off for 3 days late.  All homeworks not on extension will be given a zero if turned in after 3 days past the due date.
 

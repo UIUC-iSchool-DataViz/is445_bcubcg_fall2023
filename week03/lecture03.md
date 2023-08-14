@@ -765,7 +765,7 @@ Motion is another channel, but is *very* attention-grabbing.
 <td><img src="https://www.csc2.ncsu.edu/faculty/healey/PP/figs/tg_dir.gif"/></br>Direction</td>
 </tr></table>
 
-Check out [sc2.ncsu.edu/faculty/healey/PP](sc2.ncsu.edu/faculty/healey/PP) for more examples and research.
+Check out [https://www.csc2.ncsu.edu/faculty/healey/PP/](https://www.csc2.ncsu.edu/faculty/healey/PP/) for more examples and research.
 
 ---
 

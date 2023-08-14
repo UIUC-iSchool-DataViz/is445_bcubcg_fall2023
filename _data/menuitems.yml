@@ -1,5 +1,5 @@
 - name: Slack
-  url: https://is445-spring2023.slack.com/
+  url: https://is445-fall2023.slack.com/
   facollection: fab
   faicon: fa-slack
   weight: 20
@@ -8,6 +8,6 @@
   faicon: fa-book
   weight: 10
 - name: Canvas
-  url: https://canvas.illinois.edu/courses/32263
+  url: https://canvas.illinois.edu/courses/37444
   faicon: fa-school
   weight: 50
