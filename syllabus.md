@@ -53,15 +53,15 @@ For the most part, our data will be quantitative and multi-dimensional.  The
 course will aim to provide both an understanding of what data visualizations
 communicate and a set of tools for constructing them yourself.
 
-The course will follow a common pattern within each three-hour instructional
-session.  The first 60-90 minutes will be focused on lecture, where concepts
+The course will follow a common pattern within each single three-hour or two 1.5 hour instructional
+session(s).  The first 60-90 minutes will be focused on lecture, where concepts
 and tools will be introduced; typically, each class will focus on one type of
 visualization or class of visualization.  The remaining time will include
 exploration of a dataset, which may be independent or in groups, and then a
 wrap-up session at the end.
 
 Students are expected to have laptops with them, as well as access to Python
-installations (we will go over how to setup the correct packages), and will be encouraged to participate in class.  Homework will
+installations (we will go over how to setup the correct packages when necessary), and will be encouraged to participate in class.  Homework will
 be assigned and collected through
 other methods specified at time of submission like Moodle.
 
@@ -74,15 +74,16 @@ The central themes of the course are:
 
 ## Pre- and Co-requisites
 
-None, although basic Python programming experience is assumed.  A brief
-introduction to Python will be presented during the course.
+None, although intermediate Python programming experience is assumed.  A brief
+introduction to several Python packages (e.g. Pandas) will be presented during the course.
 
 # Course Materials
 
-There is no required textbook for this course.  All course materials will be posted to
-the GitHub repository at https://github.com/UIUC-iSchool-DataViz/is445_spring2021 .
+There is no required textbook for this course.
 
+<!-- 
 A list of Python libraries week-by-week and tips on how to install them <a href="https://uiuc-ischool-dataviz.github.io/is445_spring2021/week01/installation_instructions">can be found by clicking this link</a>.
+-->
 
 **Optional** textbook [Visualization Analysis and Design by Tamara Munzner](https://www.amazon.com/gp/product/1466508914/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).  You can find a lot of the concepts from this textbook on [the books webpage](https://www.cs.ubc.ca/~tmm/vadbook/) and the [associated lecture slides](https://www.cs.ubc.ca/~tmm/talks.html#vadallslides).
 
@@ -141,12 +142,12 @@ table th:nth-of-type(3) {
 | <a name="week6">Week 6</a> | Dashboards & Maps with bqplot | 1. VAD Ch. 8.1-8.3: Arrange Spatial Data <br> 2. VAD Ch. 11.1-11.5: Manipulate View <br> 3. <a href="https://serialmentor.com/dataviz/geospatial-data.html">FDV, Ch. 15: Visualizing geospatial data</a>
 | <a name="week7">Week 7</a> | More with maps - bqplot, cartopy, ipyleaflet, geopandas | 1. VAD Ch. 8.1-8.3: Arrange Spatial Data <br> 2. <a href="https://serialmentor.com/dataviz/geospatial-data.html">FDV, Ch. 15: Visualizing geospatial data</a> <br> 3. VAD, Ch. 13.4.2: Reduce Items and Attributes <br> 4. <a href="https://scitools.org.uk/cartopy/docs/latest/">Cartopy docs</a>; <a href="https://ipyleaflet.readthedocs.io/en/latest/">ipyleaflet docs</a>; <a href="https://geopandas.org/">Geopandas Docs</a>
 | <a name="week8">Week 8</a> | Designing for the web with Python & Javascript with Starboard | 1. <a href="https://starboard.gg/">Starboard Docs</a> - in particular: <a href="https://starboard.gg/#python">Pandas & Python</a> & <a href="https://www.markdownguide.org/basic-syntax/">general Markdown format</a> <br> 2. <a href="https://www.codecademy.com/learn/introduction-to-javascript">Intro to Javascript</a> <br> 3. <a href="https://serialmentor.com/dataviz/directory-of-visualizations.html">FDV, Ch. 5: Directory of visualizations</a>
-| <a name="week9">Week 9</a>  | Spring break, no classes, enjoy! | NA
-| <a name="week10">Week 10</a> | Designing for the web with Python & Javascript, Web dev with Starboard; Considering your audience | 1. <a href="https://medium.com/multiple-views-visualization-research-explained/same-data-multiple-perspectives-curse-of-knowledge-in-visual-data-communication-d827c381f936">Same Data, Multiple Perspectives</a> <br> 2. <a href="https://serialmentor.com/dataviz/telling-a-story.html">FDV, Ch. 29: Telling a story and making a point</a> <br> 3. <a href="https://starboard.gg/">Starboard Docs</a> <br> 4. <a href="https://vega.github.io/vega-lite/docs/">vega-lite docs</a> - in particular: <a href="https://vega.github.io/vega-lite/docs/transform.html">Vega-lite transformations</a> & <a href="https://vega.github.io/vega-lite/docs/selection.html">Vega-lite selections</a> <br> 5. <a href="https://jekyllrb.com/showcase/"> Jekyll Examples</a>
-| <a name="week11">Week 11</a> | More javascript & web dev with Jekyll  | 1. <a href="https://jekyllrb.com/tutorials/home/">Jekyll Tutorials (hit "Next" to see them at bottom)</a>
-| <a name="week12">Week 12</a> | More web dev with Jekyll & Altair  | 1. <a href="https://jekyllrb.com/tutorials/home/">Jekyll Tutorials (hit "Next" to see them at bottom)</a> <br> 2. <a href="https://altair-viz.github.io/gallery/index.html">Altair docs</a> - in particular <a href="https://altair-viz.github.io/user_guide/encoding.html#encoding-data-types">Encoding Data Types</a>, <a href="https://altair-viz.github.io/user_guide/internals.html#converting-vega-lite-to-altair">Vegalite-Altair conversions</a>, <a href="https://altair-viz.github.io/user_guide/transform/bin.html#bin-transforms">Binning</a>, <a href="https://altair-viz.github.io/user_guide/transform/filter.html">Filter transforms</a> and <a href="https://altair-viz.github.io/gallery/interactive_cross_highlight.html#interactive-chart-with-cross-highlight">interactive examples</a>
-| <a name="week14">Week 13</a> | More Jekyll & Altair & vega-lite, Publishing Viz | 1. <a href="https://altair-viz.github.io/gallery/index.html">Altair Docs</a> - in particular <a href="https://altair-viz.github.io/user_guide/data.html#including-index-data">Including Indexes</a>, <a href="https://altair-viz.github.io/altair-tutorial/notebooks/06-Selections.html">Interactivity & Selections</a>, <a href="https://altair-viz.github.io/gallery/multiline_tooltip.html#multi-line-tooltip">Multi-line tooltips</a>, <a href="https://altair-viz.github.io/user_guide/interactions.html#bindings-selections-conditions-making-charts-interactive">Interactive Binning</a>, <a href="https://altair-viz.github.io/user_guide/transform/filter.html#filter-transform">Filter Transformations</a>, <a href="https://altair-viz.github.io/altair-tutorial/notebooks/09-Geographic-plots.html">Geographic plots</a>, and <a href="https://altair-viz.github.io/user_guide/transform/fold.html">Fold Transformations</a> <br> 2. <a href="https://books.google.com/books?hl=en&lr=&id=jUw7DwAAQBAJ&oi=fnd&pg=PA91&dq=scientific+visualization+misinformation&ots=Cv0QmoCdM2&sig=7xycURu8Um_C9VtHqf-aWg4qaEo#v=onepage&q=scientific%20visualization%20misinformation&f=false">Chapter 5: Dimensions of Visual Misinformation in the Emerging Media Landscape in the book "Misinformation and Mass Audiences"</a>
-| <a name="week14">Week 14</a> | Even more with Jekyll & Altair & vega-lite | 1. <a href="https://altair-viz.github.io/gallery/index.html">Altair Docs</a> - in particular <a href="https://altair-viz.github.io/user_guide/data.html#including-index-data">Including Indexes</a>, <a href="https://altair-viz.github.io/altair-tutorial/notebooks/06-Selections.html">Interactivity & Selections</a>, <a href="https://altair-viz.github.io/gallery/multiline_tooltip.html#multi-line-tooltip">Multi-line tooltips</a>, <a href="https://altair-viz.github.io/user_guide/interactions.html#bindings-selections-conditions-making-charts-interactive">Interactive Binning</a>, <a href="https://altair-viz.github.io/user_guide/transform/filter.html#filter-transform">Filter Transformations</a>, <a href="https://altair-viz.github.io/altair-tutorial/notebooks/09-Geographic-plots.html">Geographic plots</a>, and <a href="https://altair-viz.github.io/user_guide/transform/fold.html">Fold Transformations</a> 
+| <a name="week9">Week 9</a> | Designing for the web with Python & Javascript, Web dev with Starboard; Considering your audience | 1. <a href="https://medium.com/multiple-views-visualization-research-explained/same-data-multiple-perspectives-curse-of-knowledge-in-visual-data-communication-d827c381f936">Same Data, Multiple Perspectives</a> <br> 2. <a href="https://serialmentor.com/dataviz/telling-a-story.html">FDV, Ch. 29: Telling a story and making a point</a> <br> 3. <a href="https://starboard.gg/">Starboard Docs</a> <br> 4. <a href="https://vega.github.io/vega-lite/docs/">vega-lite docs</a> - in particular: <a href="https://vega.github.io/vega-lite/docs/transform.html">Vega-lite transformations</a> & <a href="https://vega.github.io/vega-lite/docs/selection.html">Vega-lite selections</a> <br> 5. <a href="https://jekyllrb.com/showcase/"> Jekyll Examples</a>
+| <a name="week10">Week 10</a> | More javascript & web dev with Jekyll  | 1. <a href="https://jekyllrb.com/tutorials/home/">Jekyll Tutorials (hit "Next" to see them at bottom)</a>
+| <a name="week11">Week 11</a> | More web dev with Jekyll & Altair  | 1. <a href="https://jekyllrb.com/tutorials/home/">Jekyll Tutorials (hit "Next" to see them at bottom)</a> <br> 2. <a href="https://altair-viz.github.io/gallery/index.html">Altair docs</a> - in particular <a href="https://altair-viz.github.io/user_guide/encoding.html#encoding-data-types">Encoding Data Types</a>, <a href="https://altair-viz.github.io/user_guide/internals.html#converting-vega-lite-to-altair">Vegalite-Altair conversions</a>, <a href="https://altair-viz.github.io/user_guide/transform/bin.html#bin-transforms">Binning</a>, <a href="https://altair-viz.github.io/user_guide/transform/filter.html">Filter transforms</a> and <a href="https://altair-viz.github.io/gallery/interactive_cross_highlight.html#interactive-chart-with-cross-highlight">interactive examples</a>
+| <a name="week12">Week 12</a> | More Jekyll & Altair & vega-lite, Publishing Viz | 1. <a href="https://altair-viz.github.io/gallery/index.html">Altair Docs</a> - in particular <a href="https://altair-viz.github.io/user_guide/data.html#including-index-data">Including Indexes</a>, <a href="https://altair-viz.github.io/altair-tutorial/notebooks/06-Selections.html">Interactivity & Selections</a>, <a href="https://altair-viz.github.io/gallery/multiline_tooltip.html#multi-line-tooltip">Multi-line tooltips</a>, <a href="https://altair-viz.github.io/user_guide/interactions.html#bindings-selections-conditions-making-charts-interactive">Interactive Binning</a>, <a href="https://altair-viz.github.io/user_guide/transform/filter.html#filter-transform">Filter Transformations</a>, <a href="https://altair-viz.github.io/altair-tutorial/notebooks/09-Geographic-plots.html">Geographic plots</a>, and <a href="https://altair-viz.github.io/user_guide/transform/fold.html">Fold Transformations</a> <br> 2. <a href="https://books.google.com/books?hl=en&lr=&id=jUw7DwAAQBAJ&oi=fnd&pg=PA91&dq=scientific+visualization+misinformation&ots=Cv0QmoCdM2&sig=7xycURu8Um_C9VtHqf-aWg4qaEo#v=onepage&q=scientific%20visualization%20misinformation&f=false">Chapter 5: Dimensions of Visual Misinformation in the Emerging Media Landscape in the book "Misinformation and Mass Audiences"</a>
+| <a name="week13">Week 13</a> | Even more with Jekyll & Altair & vega-lite | 1. <a href="https://altair-viz.github.io/gallery/index.html">Altair Docs</a> - in particular <a href="https://altair-viz.github.io/user_guide/data.html#including-index-data">Including Indexes</a>, <a href="https://altair-viz.github.io/altair-tutorial/notebooks/06-Selections.html">Interactivity & Selections</a>, <a href="https://altair-viz.github.io/gallery/multiline_tooltip.html#multi-line-tooltip">Multi-line tooltips</a>, <a href="https://altair-viz.github.io/user_guide/interactions.html#bindings-selections-conditions-making-charts-interactive">Interactive Binning</a>, <a href="https://altair-viz.github.io/user_guide/transform/filter.html#filter-transform">Filter Transformations</a>, <a href="https://altair-viz.github.io/altair-tutorial/notebooks/09-Geographic-plots.html">Geographic plots</a>, and <a href="https://altair-viz.github.io/user_guide/transform/fold.html">Fold Transformations</a> 
+| <a name="week14">Week 14</a>  | Fall break, no classes, enjoy! | NA
 | <a name="week15">Week 15</a> | Scientific visualization <br> <br> Guest lecture about scientific & cinematic viz from <a href="https://svs.gsfc.nasa.gov/">NASA SVS</a>  |  1. VAD Ch. 8.4-8.6: Arrange Spatial Data <br> 2. VAD Ch. 11.6: Manipulate View <br> 3. <a href="https://yt-project.org/">yt docs</a> <br> 4. <a href="https://yt-project.org/doc/visualizing/volume_rendering.html">yt Volume Rendering Tutorial</a>
 | <a name="week16">Week 16</a> | Network Viz & Word cloud Viz; Class summary | 1. VAD Ch. 9: Arrange Networks and Trees <br> 2. VAD, Ch. 13.4.3.1: Reduce Items and Attributes <br> 3. VAD, Ch. 6: Rules of Thumb <br> 4. [FDV, Ch. 28: Choosing the right visualization software](https://serialmentor.com/dataviz/choosing-visualization-software.html) <br> 5. [FDV, Ch. 26: Don't go 3D](https://serialmentor.com/dataviz/no-3d.html) <br> 6. [FDV, Ch. 25: Avoid line drawings](https://serialmentor.com/dataviz/avoid-line-drawings.html)
 
@@ -201,18 +202,62 @@ This syllabus may be obtained in alternative formats upon request. Please contac
 
 # Assignments and Evaluation
 
-Students will be graded based on a combination of assignments (70%: 50% (maximum) standard prose/code assignments and
-20% weekly visualization labs) and a final
-project (30%).  The final project will be a capstone to the course, and will
+## General Assignment Info
+Assignments in this course will be a mixture of coding/visualization work and
+written work.  These two may not be distinct assignments; students will be
+asked to describe their code and justify choices for making decisions with
+respect to visualizations.
+
+Students are expected, unless otherwise instructed, to be the principal authors
+of their code.  This does not mean they may not investigate resources such as
+StackOverflow, package documentation, etc; however, they *must* cite when
+resources (especially StackOverflow and other "recipe" sites) are utilized.
+
+Each assignment will be based on "correctness" and the narrative description of
+the process.  "Correctness" in this case indicates that the code runs without
+issue, results are produced, and each component of the assignment is completed.
+The narrative description of the process will be graded on grammar minimally and
+more so on completeness and thoughtfulness.
+
+The submission process for homeworks will be described by example during class
+before any homeworks are to be submitted.
+
+
+## Assignment Details
+
+Students will be graded based on a combination of assignments including weekly prose/code homeworks, coding-based automatically-graded labs, and automatically quizzes and a final project.
+The final project will be a capstone to the course, and will
 have greater flexibility in software packages and data sources.  This project
 will be introduced around Week 8.
 
-There will be opportunities for extra credit in the homework and final project portions.  The *maximum* homework score is 
-fixed at 50% (even with extra credit included).
+Assignments will either be graded by the [PrairieLearn](https://us.prairielearn.com/) autograder for instant feedback, or by the instructional team after the assignment has been submitted.
 
+The breakdown of your grade will be:
+
+| 45% | Homework: ~weekly, prose or code, graded whole or partially by instructional team 
+| 20% | Labs: ~bi-monthly, code, graded automatically (can be attempted as many times as you want before the due date)
+| 5%  | Quizzes: ~weekly, short questions about lecture material, graded automatically (multiple attempts are allowed, however with decreasing scores)
+| 30% | Final project: prose and code, graded by instructional team
+
+### Other notes about assessments
+ * Unless otherwise specified, all assignments will be completed on the [PrairieLearn platform](https://us.prairielearn.com/).
+ * There will be opportunities for extra credit in the homework and final project portions.  
+ * The *maximum* homework score is fixed at 45% (even with extra credit included).
+ * Your lowest homework score will be dropped, however, we will not drop:
+   * Homework \#1 (introduction, installations, etc)
+   * Github Pages Setup Homework (~Homework \#5)
+   * Starboard & Jekyll Page Setup Homework (~Homework \#7)
+   * Starboard OR Jekyll Page Homework (~Homework \#9 and \#10) -- i.e. you need to do AT LEAST one of these assignments
+   
+**NOTE:** as of writing, the exact numbering/order of assignments is being developed so the number of the Github Pages setup, Starboard and Jekyll assignments may change.
+
+
+
+<!--
 There are several homework assignments which are **required** to pass the course:
  * Any installation/package test assignments (Part of Homework #1, Homework #5, and Homework #7) with a grade of 85% or better on *each* assignment portion
  * Final-project preparatory assignments: Homework #6, *either* Homework #9 *or* Homework #10 with a grade of 50% or better on *each* assignment portion
+
  
 Failure to submit these assignments above these grading thresholds will automatically lead to a failing grade in the course.
 
@@ -221,6 +266,8 @@ Failure to submit these assignments above these grading thresholds will automati
 | 50% | Standard assignments in prose or code form (50% is the MAX grade, even with extra credit)
 | 20% | Weekly visualization labs
 | 30% | Final project
+
+
 
 
 Assignments in this course will be a mixture of coding/visualization work and
@@ -265,12 +312,14 @@ issue, results are produced, and each component of the assignment is completed.
 The narrative description of the process will be graded on grammar minimally and
 more so on completeness and thoughtfulness.
 
+-->
+
 ### Grading Policy
 
 All assignments are required for all students, aside from one homework (lowest HW grade will be dropped). 
-Note that the Syllabus Quiz is in the homework grading category, but will *not* be droppable.
+<!-- Note that the Syllabus Quiz is in the homework grading category, but will *not* be droppable. -->
 Completing all assignments is
-not a guarantee of a passing grade.  You must do homework, visualization labs, and final to 
+not a guarantee of a passing grade.  You must do homework, visualization labs, quizzes, and final project to 
 receive a passing grade. Late or incomplete assignments will not be given full credit
 unless the student has contacted the instructor prior to the due date of the
 assignment (or in the case of emergencies, as soon as practicable).
@@ -294,7 +343,7 @@ assignment (or in the case of emergencies, as soon as practicable).
 
 #### Assignment Late Policies
 
-We allow students to turn in Homeworks up to a week late without penulty.  If you need to “use” one of your late homeworks use the "Extension Request" tool for each assignment in that week's module and specify that you would like to use an extension.  The extension request needs to be submitted *before the assignment is due* and can not be requested retroactively.  You do not need to provide any explanation for why you’d like to use an extension.  You will then have one extra week to submit this assignment.  No extensions can be applied to Weekly Viz labs or any parts of the Final Project.
+We allow students to turn in Homeworks up to a week late without penalty.  If you need to “use” one of your late homeworks use the "Extension Request" tool for each assignment in that week's module and specify that you would like to use an extension.  The extension request needs to be submitted *before the assignment is due* and can not be requested retroactively.  You do not need to provide any explanation for why you’d like to use an extension.  You will then have one extra week to submit this assignment.  No extensions can be applied to Labs, Quizzes, or any parts of the Final Project.
 
 Late policies for homeworks not on extension include: 10% off for 1 day late, 20% off for 2 days late, 30% off for 3 days late.  All homeworks not on extension will be given a zero if turned in after 3 days past the due date.
 
