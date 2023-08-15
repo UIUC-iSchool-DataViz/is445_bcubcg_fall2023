@@ -74,8 +74,10 @@ The central themes of the course are:
 
 ## Pre- and Co-requisites
 
-None, although intermediate Python programming experience is assumed.  A brief
-introduction to several Python packages (e.g. Pandas) will be presented during the course.
+None, although intermediate Python programming experience is assumed.  
+Generally the course assumes: an introductory knowledge of Python programming (equivalent to 1 grad course like IS430) + some experience with a Python-related project (and practice of debugging skills, googling errors).
+A brief
+introduction to several Python packages (e.g. Pandas) will be presented during the course. 
 
 # Course Materials
 
