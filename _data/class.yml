@@ -2,25 +2,26 @@ instructor:
   name: Jill Naiman
   email: jnaiman@illinois.edu
   office: Online
-  office_hours: TBD
+  office_hours: 11am-12:30pm, Wednesdays
 tas:
   -
     name: Qiuyan Guo
     email: qqguo2@illinois.edu
     office: Online
-    office_hours: TBD
+    office_hours: 8am-10am, Monday, Tuesday and Wednesday
   -
     name: Leon Hounnou
     email: hounnou2@illinois.edu
     office: Online
-    office_hours: TBD
+    office_hours: Tues & Thurs 11am-12pm, Friday 4-6pm
 
 course:
   name: Data Visualization
   number: IS445
   semester: Fall 2023
   section: BCU-BCG
-  time: Tuesdays & Thursdays, 3:30-4:50PM
+  location: 1090 Lincoln Hall
+  time: Tuesdays and Thursdays, 3:30-4:50PM
   credit_hours: 4
 urls:
   -
