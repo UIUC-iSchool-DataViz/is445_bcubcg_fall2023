@@ -736,6 +736,11 @@ a few other suggestions about how to do well in this course
 
 # Pause to check out Homework \#1?
 
+notes:
+at this stage - go over the "log onto Slack", "syllabus quiz" and "intake survey" parts of the assignment
+
+we will get to the Python notebook "Introduction to PrairieLearn" sections next class period
+
 ---
 
 <br />
@@ -1337,8 +1342,13 @@ Map5 - percentage of votes by county, weighted by population
 
 ---
 
-## Assignment 1
+## Homework 1
 
  *Go to Canvas to discuss!*
+ 
+notes:
+now go over the Lab parts of the assignment
+
+make sure to discuss that all code must be in the `#grade` portion of the assignment for autograding!
 
 ---
