@@ -1,9 +1,9 @@
 ---
-title: Lecture 2 - Data storage & Operations, Image data
+title: Lecture 2.1 - Data storage & Operations, Image data
 layout: lecture
 description: >-
  When we draw something on a screen, how do we represent that internally, and how is that translated into pixels? How are values transformed from 0's and 1's into values we can manipulate and understand?
-date: 2022-08-31
+date: 2023-08-29
 ---
 
 <br>
@@ -17,69 +17,77 @@ date: 2022-08-31
 ## How to get help
 
 Jill P. Naiman - `jnaiman@illinois.edu`
- * Office Hours: Mon 3-4pm, Wed 12:45-1:45pm (online)
+ * Office Hours: Wed 11am-12:30pm (online)
  
 TA: Leon Hounnou - `hounnou2@illinois.edu`
- * Office Hours: Thurs, Fri 4-5pm (online)
+ * Office Hours: Tues & Thurs 11am-12pm, Wed & Fri 4-6pm (online)
 
-TA: Guangchun Zheng - `gzheng6@illinois.edu`
- * Office Hours: Tuesdays 1:30-3:30pm (online)
-
-TA: Xiujia Yang - `xiujiay2@illinois.edu `
- * Office Hours: Fridays 2-4pm (online)
+TA: Qiuyan Guo - `qqguo2@illinois.edu`
+ * Office Hours: Mon, Tues, Wed, 8am-10am (online)
 
  
 Other: 
  * Slack, email
- * we added another 2 hours for Xiujia!
 
 ---
 
-## In summary: where things will be located:
+## Where resources are be located
 
- * Canvas: https://canvas.illinois.edu/courses/32263 - where the grades and assignments will be posted, pre/after class recordings posted
+ * Canvas: https://canvas.illinois.edu/courses/37444 - where the grades and assignments links will be posted
+ 
+ * PrairieLearn: https://us.prairielearn.com/pl/course_instance/137563 - where assignments will be completed
 
- * Course webpage: https://uiuc-ischool-dataviz.github.io/is445_oauoag_spring2023/  - where lecture slides, notebooks, data & general course info will live.
+ * Course webpage: https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2023/ - where lecture slides, notebooks, data & general course info will live.
 
- * Slack: https://is445-spring2023.slack.com - the best place to ask questions in the `#general` channel
+ * Slack: https://is445-fall2023.slack.com/ - the best place to ask questions in a `#homeworkX-questions` channel (or the `#general` channel for general questions)
+ 
+notes:
+
+A few notes about this semester -- while assignments will be posted on Canvas, the actual completion of the assignments will take place on the PrairieLearn platform.  We will discuss this in more detail when we get to looking at homework stuff, but in short these will be "online" cloud notebooks that have all the packages you need already installed so you don't have to install (too many) things on your local machine
+
+Also, we will be utilizing Slack for discussing homeworks with a dedicated channel for each assignment. Again, more on this when we get to looking at the homework (as part of your homework is to say hi on slack!)
 
 ---
 
-## Weekly Visualization Reports
+## Grading
 
-Every week, you are to turn in a visualization you have found in the media
-(newspapers, magazines, online journalism) and a brief summary of something you like/don't like,
-think is interesting, etc.
-
-_These are meant to be easy points:_ No more than 2-3 sentences are needed in your description.
-
-Please see [TurnItIn](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/week02/lecture02_assignment_submission_help.html#/) slides for more info
+ * 45% Standard assignments in prose or code form (see syllabus for some details about "required" assignments)
+ * 20% Lab assignments which allow for "real time" checking of answers and feedback
+ * 5% Quizzes on the material covered in class
+ * 30% Final project ([teaser trailer](https://jnaiman.github.io/online_cv_public_demo/))
+ 
+**We will drop the lowest homework score, however there are some required assignments.**
 
 notes:
-our first one is assigned today, due next week 
 
-As a reminder: we have TurnItIn in this class, but we really want you to use it as a tool, so you should be able to see your report once you submit and you can look at the same report we will see. How does this work? **go to these slides**
+part of the syllabus quiz will be checking out the HW policies in more detail -- we will drop the lowest HW score, however there 
+are several assignments you must submit and get above a certain grade on to pass the class -- these are installation assignments 
+and those that are considered "prepratory" for the final project
 
 ---
 
-## Assignment 1
+## Assignment Listings
 
-<span style="color:red">Part 2: an intake survey</span> 
-
-<span style="color:red">Part 3: Say hi on Slack!</a>
+Current assignment list on PrairieLearn: https://us.prairielearn.com/pl/course_instance/137563
+ * caveat \# 1 - 0% until official "assigned" week (or we are finished testing, see upper-left ? box)
+ * caveat \# 2 - there will be quizzes added
+ * caveat \# 3 - may or may not be a Lab 5
+ 
+Ongoing, "TODO" list of assignments: https://docs.google.com/spreadsheets/d/1dDfNkHXznHw-Ynz2-ID13I76vtZ-k9LkdVtURR-YeSE/edit?usp=sharing
 
 notes:
-these last two count for ~25% of this hw grade so I'll carefully ignore you if you are typing on something else for a few min!
+How to see assignments:
+ 1. PL list!  Note though the 2 caveats **walk through**
+ 2. See list of these updates on google doc for an outline
 
 ---
 
-## Homework grading
+## Quick note about quizzes
 
- * All HWs will be graded out of 100%, all HWs are worth the same, however,
- * Some weeks assignments are broken into multiple parts (that all add up to 100%)
- * We *will* drop a HW score
+Make sure you don't start the quiz until you have reviewed the material!  There is a ~6 hour "time out" for the quiz -- you cannot close and re-open the assignment to submit later.
 
 ---
+
 
 ## Choose your own adventure
 
