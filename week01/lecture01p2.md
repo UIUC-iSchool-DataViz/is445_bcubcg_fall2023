@@ -70,6 +70,46 @@ might do it.
 
 ---
 
+# Class Mission
+
+While you are already a _consumer_ of visualizations, your
+perspective should change to that of a _producer_ of visualizations.
+You should be comfortable reading AND writing imagery.
+
+notes:
+We will be discussing this as the semester goes on, but the principal outcome I
+want you to take away from this class is understanding how to transform data
+into its visual representation, and to take that understanding with you as you
+observe visualizations presented to you.
+
+By developing visualizations, you will grow to understand the choices that
+influence those visualizations, and you will bring that with you while
+consuming information visually.
+
+---
+
+# The Things I Want You To Take Away
+
+ * You should know the basics of how to manipulate data -- aggregations,
+   filterings, and other operations.
+ * I want you to know _some_ of the packages that are out there to visualize
+   data.  These will mostly be Python-based, with a couple in Javascript.
+ * You won't learn how to use dashboarding software (e.g. Tableau) in detail. Instead, we
+   will focus on the different operations that go into dashboarding software.
+ * By the end of the course, you will have had the opportunity to look at and
+   build visualizations in several different domains and understand how to
+   interpret, critique and improve them.
+
+notes:
+This course *will* teach you some things about how to code, how to build
+visualizations, but we're going to focus much more on learning about how to
+construct visualizations and why we make the choices that we do.  If we choose
+one way to present data, does that convey information more readily?  Or does it
+get in the way of the underlying meaning?
+
+
+---
+
 ## What is a visualization anyway?
 
 "Computer-based *visualization* systems provide visual representations of datasets designed to help people carry out tasks more effectively."
