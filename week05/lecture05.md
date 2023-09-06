@@ -172,7 +172,7 @@ This week we'll be looking at a new visualization engine.
 
 Next few weeks:
  * `vega-lite` - declaritive
- * `Altiar` - declaritive (built on `vega-lite`)
+ * `Altair` - declaritive (built on `vega-lite`)
  
 note:
 full disclosure -- bqplot has a matplotlib-like, imperative, programming interface
@@ -263,7 +263,7 @@ so, some definitions we'll be using
 
 ## bqplot objects: Using Grammar of Graphics
 
- * A mark is some mechanism for displaying data.  For example, we might have
+ * A `Mark` is some mechanism for displaying data.  For example, we might have
    data that has a set of x and y values, which we can use `Lines` to
    represent.
 
@@ -271,7 +271,7 @@ so, some definitions we'll be using
 
 ## bqplot objects: Using Grammar of Graphics
 
- * A mark is some mechanism for displaying data.  For example, we might have
+ * A `Mark` is some mechanism for displaying data.  For example, we might have
    data that has a set of x and y values, which we can use `Lines` to
    represent.
  * `Scale` objects describe relationships between visual attributes (position)
@@ -281,7 +281,7 @@ so, some definitions we'll be using
 
 ## bqplot objects: Using Grammar of Graphics
 
- * A mark is some mechanism for displaying data.  For example, we might have
+ * A `Mark` is some mechanism for displaying data.  For example, we might have
    data that has a set of x and y values, which we can use `Lines` to
    represent.
  * `Scale` objects describe relationships between visual attributes (position)
@@ -292,7 +292,7 @@ so, some definitions we'll be using
 
 ## bqplot objects: Using Grammar of Graphics
 
- * A mark is some mechanism for displaying data.  For example, we might have
+ * A `Mark` is some mechanism for displaying data.  For example, we might have
    data that has a set of x and y values, which we can use `Lines` to
    represent.
  * `Scale` objects describe relationships between visual attributes (position)
