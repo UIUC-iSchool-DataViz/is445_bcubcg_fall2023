@@ -503,7 +503,7 @@ Does its plots look like plots I want to make?
  * Can I get ahold of this software?
  * Do I install it, or do I use it on a server?
  * What's the user interface like?
- * Is it declarative or is it procedural?
+ * Is it declarative or is it procedural/imperative?
  
 notes: in the HW you will look at several different forms of interfaces for making the same plot and thought a bit about how a user of the viz might go about making different plots and how some pathways to viz might be more or less intative for you and your given task 
 
