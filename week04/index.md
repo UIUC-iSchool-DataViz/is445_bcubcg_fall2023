@@ -23,6 +23,11 @@ examples:
     type: ipynb
     title: spring2019_notes_week04_part2.ipynb
 data:
+  - filename: building_inventory.csv
+    type: dataLink
+    title: Buildings dataset
+    description: Illinois buildings dataset
+    link: https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/building_inventory.csv
   - filename: ufo-scrubbed-geocoded-time-standardized-00.csv
     type: dataLink
     title: The UFO Sitings Dataset (13Mb)
