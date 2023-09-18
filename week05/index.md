@@ -22,16 +22,11 @@ examples:
     type: ipynb
     title: spring2019_notes_week05_part2.ipynb
 data:
-  - filename: ufo-scrubbed-geocoded-time-standardized-00.csv
+  - filename: ufo-scrubbed-geocoded-time-standardized-cnames.csv
     type: dataLink
     title: The UFO Sitings Dataset (13Mb)
     description: Data about world wide reports of UFO sitings
-    link:  https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/ufo-scrubbed-geocoded-time-standardized-00.csv
-  - filename: michigan_lld.flt
-    type: dataLink
-    title: Michigan Depth Map (86Mb)
-    description: Measurments taken from around Lake Michigan (https://www.ngdc.noaa.gov/mgg/greatlakes/michigan.html)
-    link:  https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/michigan_lld.flt
+    link:  https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/ufo-scrubbed-geocoded-time-standardized-cnames.csv
 ---
 
 # Continuing interactivity with bqplot
