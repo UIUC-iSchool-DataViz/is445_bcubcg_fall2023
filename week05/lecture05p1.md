@@ -295,6 +295,22 @@ walk through each line and say this order is pretty usual
 
 ---
 
+## Next week -- Prof. Jill out of town, "flipped" class for Lab \#4
+
+In particular, I am assuming you have watched the [Part 2 Video](https://mediaspace.illinois.edu/media/t/1_k93hei8q) already before joining the class next week (video on Module page) *and* have looked at the prep notebook in Week 6.
+
+**Extra online office hours with TA Qiuyan Guo (see class Zoom page).**
+
+notes:
+**change of modality next week!**
+
+Qiuyan will have extra online hours during class time!
+
+notes:
+just a remidner!
+
+---
+
 # To Python for more interactivity!
 
 ---
