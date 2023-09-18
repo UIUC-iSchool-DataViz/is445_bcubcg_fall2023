@@ -1,9 +1,9 @@
 ---
-title: Lecture 6 - Dashboards & Maps
+title: Lecture 6 - Dashboards & Maps (ONLINE CLASS ONLY THIS WEEK)
 layout: lecture
 description: >-
- Linking data a bit about maps (if we have time)
-date: 2023-02-21
+ Linking data with Dashboards 
+date: 2023-09-26
 ---
 
 ## Reminder: change of modalities today
@@ -13,21 +13,6 @@ Topics:
  * short lecture about linked data
  * some brief homework #6 hints
  * rest of time used to ask questions about Homework #6
-
----
-
-## Announcement: Results of course discussion on modality
-
-Most folks want to stay on Slack -- let's all try to ask/answer new questions in new threads!
-
----
-
-## Announcement: 
-
-Short *anonymous* feedback survey.
-
-notes:
-*unhide the survey!*
 
 ---
 
@@ -331,28 +316,9 @@ and we've done masking before with the filtering of images AND there are more hi
 
 ---
 
-## Recall: HW 6 this week
-
-Build a dashboard for the license data.
- * Left component:
-   * Grid heat map
-   * Columns are License Type
-   * Rows are the County 
-   * Values are mean of the days between Effective Date and Expiration Date
- * Right component:
-   * is a barplot/histogram
-   * x is the year
-   * y is median number of days between Original Issue Date and Expiration Date that year
- * These two should be linked so that you can select cells and that will update the right plot.
-	
-notes:
-Hint for those in class -- check out pivot tables with pandas, it might get you close to where you want to be with filtering your data!
-
----
-
 ## Pre-class Video's Python Programming:
 
-Starting with these ideas, we progressively enhanced using the following steps:
+We progressively build a dashboard for the UFO dataset using the following steps:
 
  * Create heat maps of the sightings in the UFO dataset
  * Select based on location (do not use map marks yet)
@@ -424,10 +390,3 @@ notes: also we want to understand the ways we can actually link parts of our dat
 
 if we use dashboarding software, it can often obfuscate a lot of of these aspects
 
----
-
-## Dashboards: Building our own in Python
-
-</br></br>
-
-## TOPIC 3: To Python for Homework #6 hints and then rest of class will be spend on homework!
