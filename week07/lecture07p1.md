@@ -1,5 +1,5 @@
 ---
-title: Lecture 7 - Maps!
+title: Lecture 7.1 - Maps!
 layout: lecture
 description: >-
  More about maps and their projections
