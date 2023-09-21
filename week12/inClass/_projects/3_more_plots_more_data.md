@@ -13,18 +13,13 @@ custom_js:
 
 # More Altair Plots
 
-## Simple line plot with "for free" interactivity
 First a "simple" line plot with Altair:
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/buildings_sqrt.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/buildings_stats1.json" style="width: 100%"></vegachart>
 
-## "Melting" the data for more complex plos
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/buildings_tooltip.json" style="width: 100%"></vegachart>
 
-## Adding a dropdown interactive
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/buildings_dropdown.json" style="width: 100%"></vegachart>
 
 
 <!-- these are written in a combo of html and liquid --> 

@@ -1,7 +1,7 @@
 ---
 name: Vega lite plots, multiple ways
 tools: [Python, HTML, vega-lite, Altair]
-image: assets/pngs/vegalitemanyways.png
+image: assets/pngs/cars.png
 description: Vega-lite plots using different methods.
 custom_js:
   - vega.min
@@ -25,27 +25,11 @@ This project will show how to use vega-lite to make plots using different method
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/vega_editor_plot2.json" style="width: 100%"></vegachart>
 
-## 2. Quick detour with images
-
-We can include our own images that we have stored in 
-our `assets/pngs` folder with Markdown:
-
-![a vegalite plot with interactive legend](/assets/pngs/vegalitemanyways.png)
-
-
-
-
-
-
-
-
-
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
 {% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
 </div>
-
 
 <div class="right">
 {% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}

@@ -53,7 +53,15 @@ I have added some interactivity with a `altair.selection_interval` and `transfor
 <vegachart schema-url="{{ site.baseurl }}/assets/json/altair_mobility_dashboard.json" style="width: 100%"></vegachart>
 
 
+## 4. Plots in Altair with locally hosted data
 
+With locally hosted dataframe in jupyter notebook:
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/altair_mobility_local_dashboard.json" style="width: 100%"></vegachart>
+
+With a subset of that local dataframe:
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/altair_mobility_local_dashboard_subset.json" style="width: 100%"></vegachart>
 
 
 
