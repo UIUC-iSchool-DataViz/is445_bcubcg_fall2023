@@ -1,8 +1,8 @@
 ---
-title: Lecture 5.2 - Viz Engines, github Pages Setup
+title: Lecture 5.2 - GitHub Pages Setup
 layout: lecture
 description: >-
- Getting set up with a github.io account and a bit about Viz Engines
+ Getting set up with a github.io account
 date: 2023-09-21
 ---
 
