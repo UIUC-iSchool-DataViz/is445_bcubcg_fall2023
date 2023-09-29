@@ -159,6 +159,8 @@ This screenshot serves as your submission for this portion of the homework assig
 
 `git push` (push all changes from local to remote site)
 
+**Unless specifically mentioned (e.g. changing the github `repository` variable in the config file) do NOT change any of the text in this repository -- it will be used to run automated checks to in sure you have the correct repository set up.** 
+
 **Step 2 -- Second part of submission:** Wait for your site to build (you can check the Environments tab or just keep refreshing your <GITHUB_USERNAME>.github.io webpage).  Once that is loaded and looks like your locally hosted version, submit your github.io URL as the second part of your submission.  You can do this in a document or as a comment to your submission (mine would be something like: "updated URL: jnaiman.github.io").
 
 
