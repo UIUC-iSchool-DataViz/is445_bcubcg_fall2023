@@ -6,12 +6,10 @@ description: >-
 date: 2022-03-07
 ---
 
-# Reminder: "Temperature Taking" Quiz
+# "Temperature Taking" Quiz
 
-notes: talk about updates here!
- so far feed back is: 
- * a bit fast (notes about new upload times to github)
- * can we do final project alone? (yes!)
+notes: 
+go over where this is!
 
 ---
 
