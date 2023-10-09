@@ -8,7 +8,7 @@ examples:
     type: iodide
     title: In Class Notebook, Week 8
     description: In Class Starboard Notebook
-    link: https://starboard.gg/nb/nqi1zNV
+    link: https://starboard.gg/nb/nPN9wCY
   - filename: prep_notebook_week08_fall2022
     type: iodide
     title: Prep Starboard Notebook, Week 8

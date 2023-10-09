@@ -139,11 +139,14 @@ Try deleting the file "Gemfile.lock", then do in the command line:
 **Step 4:** Navigate to the URL listed in a Chrome or Firefox browser -- in the above image this is `http://127.0.0.1:4008/`.  You should see the following page pop up:
 
 ![picture of running local webpage](images/servesitelocal2.png)
+(**Your corgi photo may be different!**)
 
 
 **Step 5 -- First part of submission:** Take a screenshot of a side-by-side of your running Terminal/Anaconda Prompt and the served webpage like so:
 
 ![submission](images/submissionscreenshot1.png)
+(**Your corgi photo may be different!**)
+
 
 This screenshot serves as your submission for this portion of the homework assignment.
 
