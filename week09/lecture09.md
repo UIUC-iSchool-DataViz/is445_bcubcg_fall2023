@@ -1,9 +1,9 @@
 ---
-title: Lecture 9 - Viz audience, Final Project Info
+title: Lecture 9.1 - Viz audience, Final Project Info
 layout: lecture
 description: >-
  Considerations of audience, review about final projects, more with vega lite & Starboard
-date: 2023-03-21
+date: 2023-10-17
 
 ---
 
@@ -298,18 +298,6 @@ Who here is an expert on the historical accuracy of movies? Do you think this vi
 
 ## Jargon
 
-<iframe src="https://player.vimeo.com/video/206139648" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/206139648">Jaret before and after</a> from <a href="https://vimeo.com/aldacenter">Alan Alda Center</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-notes:
-so here is an example of a scientist and, in a typical scientist fashion, using a  lot of jargon
-
-but then after taking some improv he's able to communicate more effectively to the public
-
----
-
-## Jargon
-
 Definition: Special words or expressions that are used by a particular profession or group and are difficult for others to understand.
 
 <img src="images/hurricane.jpg" width="400"/>
@@ -370,6 +358,15 @@ Why is that?
 
 notes:
 Emotional response to storytelling is an evolutionary trait humans developed to form stronger social bonds and learn from each other's experience.
+
+---
+
+## Storytelling
+
+<iframe width="1024" height="576" src="https://www.youtube-nocookie.com/embed/r4k6Gm4tlXw?si=yX3Z66_h1aYZF04d?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+notes:
+play to ~2:43
 
 ---
 
@@ -519,13 +516,13 @@ There are three components, turned in the last three weeks of class.
 
 You will have three components:
 
-1. Viz for Self (Due April 11 - individual)
-1. Viz for Peers (Due April 18 - group)
-1. Viz for Others (Due April 28 (for feedback), May 12 (final) - group)
+1. Viz for Self (Due November 7 - individual)
+1. Viz for Peers (Due November 28 - group)
+1. Viz for Others (Due December 1 (for feedback), December 11 (final) - group)
 
 Be aware:
  * **NO** extensions for these assignments.
- * There is a group-submission option (sign up after Homework #10 sign-ups complete).
+ * There is a group-submission option (sign up annoucement to be posted later this week).
 
 note:
 there are NO extensions available -- you can't use one of your three HW extensions for these components
@@ -585,12 +582,12 @@ Submit in a Jupyter notebook.
 
 Be aware:
  * This should use the *same dataset* as Part 1.
- * Dashboard requirement (like Homework #6)
+ * Dashboard requirement (like Lab #4)
 
 See Assignment description for more details.
 
 note:
-This part of the project will be like Homework #6 (which we know is a toughy!) -- if you didn't do well on Homework #6 and want to walk through how to approach this problem feel free to pop by office hours (mine or the TA's) and we'll walk you through it (any office hours should do, we all have the solutions :D )
+This part of the project will be like Lab #4 (which we know is a toughy!) -- if you didn't do well on Lab #4 and want to walk through how to approach this problem feel free to pop by office hours (mine or the TA's) and we'll walk you through it (any office hours should do, we all have the solutions :D )
 
 ---
 
