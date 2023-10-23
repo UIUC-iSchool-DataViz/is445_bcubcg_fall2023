@@ -273,8 +273,8 @@ The breakdown of your grade will be:
  * Your lowest homework score will be dropped, however, we will not drop:
    * Homework \#1 (introduction, installations, etc)
    * Github Pages Setup Homework (Homework \#4)
-   * Starboard & Jekyll Page Setup Homework (Homework \#6)
-   * Starboard OR Jekyll Page Homework (Homework \#8 or \#9) -- i.e. you need to do AT LEAST one of these assignments
+   * Starboard & Jekyll Page Setup Homework (Homework \#5)
+   * Starboard OR Jekyll Page Homework (Homework \#7 or \#8) -- i.e. you need to do AT LEAST one of these assignments
    
 
 
