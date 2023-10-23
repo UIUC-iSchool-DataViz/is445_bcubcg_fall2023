@@ -1,5 +1,5 @@
 ---
-title: Lecture 10 - Starboard, Publishing & more in Jekyll
+title: Lecture 10.1 - Publishing & more in Jekyll
 layout: lecture
 description: >-
  Publishing your viz, vega-lite with Altair in a Jekyll page
@@ -19,38 +19,32 @@ finally getting into jekyll probably at the end of class
 
 ---
 
-## Dropping lowest Weekly Viz score
-
----
-
 ## Final Groups
 
-Sign up due 4/9.
+Sign up due 11/7.
+
+Find a group: `#final-project-groups` channel in Slack.
 
 notes:
-these have been opened, so please sign up before the due date of 4/9!
-
----
-
-
-<br/>
-<br/>
-<br/>
-
-# Back to Starboard!!
-
-notes:
-we'll finish up some stuff in starboard, mostly just do one more plot
-
-there is an extra video in this week & last week that shows how to add interactivity and dashboarding AND there is an extra prep notebook (also in this week and last week) that covers that material
-
-after one final plot, we are going to focus on Jekyll and interactivity there.
-
-**go to starboard to finish up!!**
+these have been opened, so please sign up before the due date of 11/7!
 
 ---
 
 ## Going further with Starboard
+
+Extra video in Module from last week -- interactivity and dashboarding in Starboard.  See "Extra Starboard - Dashboarding" notebook from last week.
+
+notes:
+
+**go to video**
+
+**point out starboard link**
+
+---
+
+## Going further with Starboard
+
+Extra video in Module from last week -- interactivity and dashboarding in Starboard.  See "Extra Starboard - Dashboarding" notebook from last week.
 
 There are also ways to embed Starboard notebooks in webpages.
 
@@ -192,7 +186,7 @@ notes:
 
 Jekyll is a [static site generator](https://www.cloudflare.com/learning/performance/static-site-generator/)
 
- * Reduce manual coding for webpages with repeated content [see static site source code for class webpage](https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022)
+ * Reduce manual coding for webpages with repeated content [see static site source code for class webpage](https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2023)
  * Written in Ruby
  * Very popular static site generator (most popular as of 2017)
  * easy(ish) to deploy on github.io and other hosting platforms
@@ -210,10 +204,10 @@ notes:
 
 ## Jekyll installation
 
-We did this in Homework #7 [recall instructions here](https://uiuc-ischool-dataviz.github.io/is445_oauoag_spring2023/week10/installation_instructions_week11.html).
+We did this in Homework #5 [recall instructions here](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2023/week09/installation_instructions_week11.html).
 
 notes:
-the good news is that if we recall homework #7 we already installed jekyll!  now we'll actually start making modifcations to your webpages in order to host your own content (and final projects) and publishing to github
+the good news is that if we recall homework #5 we already installed jekyll!  now we'll actually start making modifcations to your webpages in order to host your own content (and final projects) and publishing to github
 
 ---
 

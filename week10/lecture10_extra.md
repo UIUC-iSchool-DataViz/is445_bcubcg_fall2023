@@ -1,5 +1,5 @@
 ---
-title: Lecture 10 extras - more with Vega-lite
+title: Lecture 10.x extras - more with Vega-lite
 layout: lecture
 description: >-
  More with vega-lite
