@@ -1,8 +1,8 @@
 ---
-name: Vega lite plots, multiple ways
-tools: [Python, HTML, vega-lite, Altair]
+name: Example in class
+tools: [Python, HTML, vega-lite]
 image: assets/pngs/cars.png
-description: Vega-lite plots using different methods.
+description: Ongoing example!
 custom_js:
   - vega.min
   - vega-lite.min
@@ -11,19 +11,14 @@ custom_js:
 ---
 
 
-# Use Vega-lite in Many Ways in Jekyll
+# Example including vega-lite
 
-This project will show how to use vega-lite to make plots using different methods, and the vegachart tag from our plugins:
 
-```
+
 <vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
-```
 
-## 1. Directly from vega-editor
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/vega_editor_plot1.json" style="width: 100%"></vegachart>
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/vega_editor_plot2.json" style="width: 100%"></vegachart>
 
 <!-- these are written in a combo of html and liquid --> 
 
