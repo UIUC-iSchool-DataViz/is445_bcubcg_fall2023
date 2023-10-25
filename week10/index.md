@@ -13,7 +13,7 @@ examples:
     type: iodide
     title: Prep online_cv file, Week 10
     description: We'll be building toward a webpage like <a href="https://jnaiman.github.io/online_cv_public/">this</a> today using <a href="https://jekyllrb.com/">Jekyll</a>+<a href="https://altair-viz.github.io/index.html">Altair</a>. 
-    link: https://github.com/jnaiman/online_cv_public
+    link: https://github.com/jnaiman/online_cv_spring2023
   - filename: In Class Jekyll page
     type: iodide
     title: In class Jekyll resources, Week 10
