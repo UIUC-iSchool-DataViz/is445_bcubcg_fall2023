@@ -19,6 +19,14 @@ examples:
     title: In class Jekyll resources, Week 10
     description: Updating storage of Jekyll files in class
     link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2023/tree/master/week10/inClass
+  - filename: inClass_week10.ipynb
+    type: ipynb
+    title: In Class Notebook, Week 10
+    description: In class notebook
+  - filename: prep_notebook_week10.ipynb
+    type: ipynb
+    title: Prep Notebook, Week 10
+    description: Prep notebook for this week
 data:
   - filename: mobility.csv
     type: dataLink
