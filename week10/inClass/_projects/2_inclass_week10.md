@@ -31,6 +31,10 @@ Something more complex with interactivity:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/chart1.json" style="width: 100%"></vegachart>
 
+### Static side-by-side
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/static_mobility_dashboard.json" style="width: 100%"></vegachart>
+
 
 
 
