@@ -25,6 +25,7 @@ Simple barplot specification:
 
 Something more complex with interactivity:
 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/interactive_legend.json" style="width: 100%"></vegachart>
 
 
 
