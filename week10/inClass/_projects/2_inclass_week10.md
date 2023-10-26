@@ -35,6 +35,9 @@ Something more complex with interactivity:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/static_mobility_dashboard.json" style="width: 100%"></vegachart>
 
+### Dashboard side-by-side with `from_dict` function
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/side_by_side_from_dict.json" style="width: 100%"></vegachart>
 
 
 
