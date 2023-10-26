@@ -19,6 +19,8 @@ Example that came with the template:
 
 ## From the vega-editor
 
+Simple barplot specification:
+
 
 
 
