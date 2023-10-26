@@ -21,7 +21,7 @@ Example that came with the template:
 
 Simple barplot specification:
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/firstViz.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/firstViz_take2.json" style="width: 100%"></vegachart>
 
 
 
