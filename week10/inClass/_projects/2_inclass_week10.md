@@ -27,6 +27,11 @@ Something more complex with interactivity:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/interactive_legend.json" style="width: 100%"></vegachart>
 
+## From a dictionary in Altair in Python
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/chart1.json" style="width: 100%"></vegachart>
+
+
 
 
 <!-- these are written in a combo of html and liquid --> 
