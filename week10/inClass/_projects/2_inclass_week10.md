@@ -1,7 +1,7 @@
 ---
 name: Example in class
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
+image: assets/pngs/interactive_legend.png
 description: Ongoing example!
 custom_js:
   - vega.min
