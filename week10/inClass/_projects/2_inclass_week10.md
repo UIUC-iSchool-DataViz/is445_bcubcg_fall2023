@@ -13,9 +13,11 @@ custom_js:
 
 # Example including vega-lite
 
-
+Example that came with the template:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
+
+## From the vega-editor
 
 
 
