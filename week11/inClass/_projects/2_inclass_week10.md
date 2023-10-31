@@ -39,6 +39,12 @@ Something more complex with interactivity:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/side_by_side_from_dict.json" style="width: 100%"></vegachart>
 
+## Quick aside into Altair-only plots
+
+This was a plot that was made purely in Altair:
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/pop_scatter.json" style="width: 100%"></vegachart>
+
 
 
 <!-- these are written in a combo of html and liquid --> 
