@@ -45,6 +45,9 @@ This was a plot that was made purely in Altair:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/pop_scatter.json" style="width: 100%"></vegachart>
 
+## Side-by-side, interactiving using Altair syntax
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/side_by_side_mobility_url.json" style="width: 100%"></vegachart>
 
 
 <!-- these are written in a combo of html and liquid --> 
