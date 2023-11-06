@@ -1,14 +1,14 @@
 ---
-title: Lecture 12 - 3D graphics, Intro to SciViz
+title: Lecture 12.1 - 3D graphics, Intro to SciViz
 layout: lecture
 description: >-
  How your computer and the internet process 3D graphics.  What is scientific visualization? 
-date: 2023-04-10
+date: 2023-11-07
 ---
 
 ## Last Week
 
-<img src="../week12/images/week12.png">
+<img src="../week11/images/week12.png">
 
 notes:
 so far, we've been covering a bit of javascript and vega-lite as some new viz engines and using them in Jekyll
@@ -28,7 +28,7 @@ today we'll discuss a bit about how rendering 3D objects to make them look "phot
 
 ## Next week: Guest Lecture from NCSA's Advanced Visualization Lab
 
-Special guest speaker next week!
+Special guest speaker next Tuesday!
 
 notes:
 ... which we'll also hear more about from the AVL, i.e. the Advanced Visualization Lab which will be giving us a special guest lecture next week!
