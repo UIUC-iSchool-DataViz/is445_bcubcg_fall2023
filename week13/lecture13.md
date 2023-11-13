@@ -1,26 +1,17 @@
 ---
-title: Lecture 13 - A bit more with Jekyll
+title: Lecture 13.2 - A bit more with Jekyll
 layout: lecture
 description: >-
- Just a bit more things about Jekyll? 
-date: 2023-04-18
+ Just a bit more things about Jekyll!
+date: 2023-11-16
 ---
 
 ## Last/This Week
 
-<img src="../week13/images/week13_spring2023.png">
+<img src="../week12/images/week13_spring2023.png">
 
 notes:
 we've been doing some stuff with Jekyll and we'll finish up a few things and then get a special guest lecture!
-
----
-
-## This week: Guest Lecture from NCSA's Advanced Visualization Lab
-
-Special guest speaker this week!
-
-notes:
-... which we'll also hear more about from the AVL, i.e. the Advanced Visualization Lab which will be giving us a special guest lecture next week!
 
 ---
 
@@ -43,10 +34,10 @@ you can stay in the main room, or there will be breakout rooms for you as well!
 ## Notes on Final, Part 3
 
 Due dates:
- 1. First draft of Part 3 -- due April 28, will get feedback course participants 
- 1. Post your link in the Canvas forum to get feedback from classmates -- April 29
- 1. Provide feedback for 3 randomly assigned classmates -- due May 5 
- 1. Final chance to resubmit your Part 3 -- May 12 
+ 1. First draft of Part 3 -- due Dec 1, will get feedback course participants 
+ 1. Post your link in the Canvas forum to get feedback from classmates -- Dec 2 (**all group members must do this**)
+ 1. Provide feedback for 3 randomly assigned classmates -- due Dec 8
+ 1. Final chance to resubmit your Part 3 -- Dec 11
  
 **Please be aware these are hard deadlines -- no extensions available**
  
@@ -69,6 +60,20 @@ Let's take a look!
 
 notes:
 
-* go over
-* should we push this back a few days (maybe that friday?)
+* go over -- note it is close in due date to final project, part 2!
+* ~~should we push this back a few days (maybe that friday?)~~
+
+---
+
+## What should we do today in class?
+
+A quick poll! 
+
+Options:
+1. Spend some time looking at more Altair examples with geospatial data (there are recordings of this also on the week's page on canvas)
+1. Have "lab time" to work on Final Projects
+
+notes:
+
+**on hide poll!**
 
