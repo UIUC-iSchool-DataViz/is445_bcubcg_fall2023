@@ -2,7 +2,7 @@
 title: The Hello World of Blogs
 tags: [Technology, Blogging]
 style: fill
-color: secondary
+color: warning
 description: This is a blog post to get you started.
 ---
 
